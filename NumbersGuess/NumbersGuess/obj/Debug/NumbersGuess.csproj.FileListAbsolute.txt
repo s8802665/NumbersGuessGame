@@ -1,0 +1,9 @@
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\obj\Debug\NumbersGuess.csprojResolveAssemblyReference.cache
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\obj\Debug\NumbersGuess.Game.resources
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\obj\Debug\NumbersGuess.csproj.GenerateResource.Cache
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\bin\Debug\NumbersGuess.exe.config
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\bin\Debug\NumbersGuess.exe
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\bin\Debug\NumbersGuess.pdb
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\obj\Debug\NumbersGuess.exe
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\obj\Debug\NumbersGuess.pdb
+D:\C#程式設計基礎\NumbersGuess\NumbersGuess\NumbersGuess\obj\Debug\NumbersGuess.Properties.Resources.resources
